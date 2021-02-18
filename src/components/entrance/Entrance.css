@@ -1,9 +1,9 @@
 #entrance {
-	animation-duration: 2.0s;
+	animation-duration: 1.5s;
 }
 #clock {
-	animation-delay: 1s;
-	animation-duration: 3.0s;
+	animation-delay: 0s;
+	animation-duration: 1.5s;
 	position:absolute;
 	bottom:30%;
 	left:10%;
@@ -12,8 +12,8 @@
 	text-shadow: 0 0 20px yellow;
 }
 #oDate {
-	animation-delay: 1s;
-	animation-duration: 3.0s;
+	animation-delay: 0s;
+	animation-duration: 1.5s;
 	position:absolute;
 	bottom:38%;
 	left:10%;
@@ -28,23 +28,23 @@
 	text-align: center;
 }
 #me1 {
-	animation-delay: 1s;
-	animation-duration: 3.0s;
+	animation-delay: 0.5s;
+	animation-duration: 1.5s;
 	color:#fff;
 	font-size:4.5em;
 	text-shadow: 0 0 20px yellow;
 }
 #me2 {
-	animation-delay: 2s;
-	animation-duration: 3.0s;
+	animation-delay: 0.5s;
+	animation-duration: 1.5s;
 	color:#fff;
 	font-size:4.5em;
 	text-shadow: 0 0 20px yellow;
 }
 
 #me3 {
-	animation-delay: 3s;
-	animation-duration: 2s;
+	animation-delay: 0.5s;
+	animation-duration: 1.5s;
 	margin-top: 3em;
 	color:#fff;
 	font-size:3em;

@@ -8,6 +8,7 @@ export default `
 		<th><img src='${process.env.REACT_APP_GIT_URL}/img/반.jpg' alt='' width='300' height='auto' class='alignleft' /></th>
 		<td> 안녕하세요. 웹 개발자를 목표로 공부하고 있는 이석주입니다. <br>
 			<br> 29살 (93년생)<br> 경기대학교 컴퓨터과학과 학사 <br>
+			<br> <strong>git</strong>: <a href='https://github.com/a2175 'target='_blank'>https://github.com/a2175</a>
 			<br> <strong>email</strong>: as217512@gmail.com
 			<br><br>
 			제가 공부하면서 만들어보았던 결과물의 설명은 상단의 탭메뉴에서 보실 수 있습니다. <br>
@@ -19,6 +20,8 @@ export default `
 				target='_blank'>Spring Boot CRUD 게시판</a></li>
 				<li><a href='http://a2175.iptime.org/php/'
 				target='_blank'>PHP-MVC CRUD 게시판</a></li>
+				<li><a href='http://a2175.iptime.org:8000/'
+				target='_blank'>Laravel CRUD 게시판</a></li>
 				<li><a href='http://a2175.iptime.org:3001/'
 				target='_blank'>Node.js-Express-Pug RESTful CRUD 게시판</a></li>
 				<li><a href='http://a2175.iptime.org:3002/'

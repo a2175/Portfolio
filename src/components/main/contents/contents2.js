@@ -64,6 +64,10 @@ PHP를 사용하여 간단한 CRUD 게시판과 댓글, Pusher 채팅 기능을 
 		<td><a href='https://github.com/a2175/LaravelProject' target='_blank'>https://github.com/a2175/LaravelProject</a></td>
 	</tr>
 	<tr>
+		<th>Demo</th>
+		<td><a href='http://a2175.iptime.org:8000/'
+			target='_blank'>http://a2175.iptime.org:8000/</a></td>
+	</tr>
 	<tr>
 		<th colspan='2' align='center' bgcolor='#CCEEFF' height='20'>상세내용</th>
 	</tr>
